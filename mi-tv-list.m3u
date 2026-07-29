@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" group-title="NACIONALES", Argentinísima Satelital
+#EXTINF:-1 tvg-id="1" group-title="NACIONALES" tvg-logo="https://www.laborando.com.ar/wp-content/uploads/utilisima-logo.png", Argentinísima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
-#EXTINF:-1 tvg-id="2" group-title="NACIONALES", Canal 26 HD
+#EXTINF:-1 tvg-id="2" group-title="NACIONALES" tvg-logo="https://argentina.mom-gmr.org/uploads/_processed_/c/6/csm_16018-1639_import_f924de7718.png", Canal 26 HD
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="3" group-title="NACIONALES", Neox TV
