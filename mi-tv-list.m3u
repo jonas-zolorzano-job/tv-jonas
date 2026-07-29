@@ -6,16 +6,16 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="2" group-title="NACIONALES" tvg-logo="https://argentina.mom-gmr.org/uploads/_processed_/c/6/csm_16018-1639_import_f924de7718.png", Canal 26 HD
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-#EXTINF:-1 tvg-id="3" group-title="NACIONALES", Neox TV
+#EXTINF:-1 tvg-id="3" group-title="NACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Neox_logo_actual.png", Neox TV
 https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
 
-#EXTINF:-1 tvg-id="5" group-title="DEPORTES", DSPORTV HD
+#EXTINF:-1 tvg-id="5" group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/DSports_logo_2022.png", DSPORTV HD
 http://8.243.126.131:8000/play/a05a/index.m3u8
 
-#EXTINF:-1 tvg-id="6" group-title="DEPORTES", ESPN3 HD
+#EXTINF:-1 tvg-id="6" group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg", ESPN3 HD
 http://181.78.197.59:8000/play/a07z/index.m3u8
 
-#EXTINF:-1 tvg-id="7" group-title="DEPORTES", ESPN4 HD
+#EXTINF:-1 tvg-id="7" group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg", ESPN4 HD
 http://181.78.197.59:8000/play/a07n/index.m3u8
 
 #EXTINF:-1 tvg-id="8" group-title="DEPORTES", FIFA+
